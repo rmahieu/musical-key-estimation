@@ -5,7 +5,7 @@ addpath(chroma_toolbox_path);
 
 %% CHOOSE SONG
 
-song = 'music/Armin van Buuren - Save My Night (Radio Edit).mp3';
+song = 'music/song_file.mp3';
 
 %% PROCESS!
 
