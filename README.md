@@ -6,7 +6,7 @@ This is a complete, trained system that determines the key of any input music tr
 Simply edit the song filepath in *main.m* to the location of the song that you want to process, then run the script.
 
 ## Dependencies
-This project requires the *Statistics and Machine Learning Toolbox* for MATLAB. It also needs the Chroma Toolbox, but I've included that here.
+This project requires the *Statistics and Machine Learning Toolbox* for MATLAB. It also needs the [*Chroma Toolbox*](http://resources.mpi-inf.mpg.de/MIR/chromatoolbox/), but I've included that here.
 
 ## Writeup
 * [Final report](http://robertmahieu.com/docs/mahieu_cs229_final_report.pdf)
